@@ -1,0 +1,1 @@
+let minumero: number = 50
