@@ -1,3 +1,6 @@
 1. tener instalado nodejs
 2. tener instalado npm
 3. npm install typescript -g
+
+4. para estar observando todo el tiempo ese archivo sus cambios
+ >tsc -w functions.ts
